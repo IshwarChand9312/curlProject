@@ -1,0 +1,4 @@
+﻿  curlProject.cpp
+D:\Visual Studio Project\curlProject\curlProject\curlProject.cpp(121,20): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Project\curlProject\curlProject\curlProject.cpp(44,11): warning C4101: 'res': unreferenced local variable
+  curlProject.vcxproj -> D:\Visual Studio Project\curlProject\x64\Debug\curlProject.exe
